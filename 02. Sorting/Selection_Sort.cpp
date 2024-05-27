@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Approach:
 
 // The algorithm steps are as follows:
@@ -43,4 +44,14 @@ int main() {
    cout << endl;
 
    return 0;
+=======
+#include<iostream>
+using namespace std;
+
+int main(){
+
+    cout<<"hello";
+
+    return 0;
+>>>>>>> 292203ac8b576d4bf32ef518e7fe2991ec5c2330
 }
